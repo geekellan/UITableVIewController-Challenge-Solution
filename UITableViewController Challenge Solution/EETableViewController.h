@@ -1,5 +1,5 @@
 //
-//  EEViewController.h
+//  EETableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Admin on 03.05.14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface EEViewController : UIViewController
+@interface EETableViewController : UITableViewController
 
 @end
